@@ -25,7 +25,7 @@
           class="project-link"
           target="_black">
           <div class="project-card">
-            <img src="media/website-job-posting.jpeg" alt="" class="project-image" />
+            <img src="./assets/website-job-posting.jpeg" alt="" class="project-image" />
             <h3 class="project-title">
               <span class="code">&lt;</span>
               Job Posting Website
@@ -41,7 +41,7 @@
           class="project-link"
           target="_black">
           <div class="project-card">
-            <img src="media/coffee_shop.jpeg" alt="" class="project-image" />
+            <img src="./assets/coffee_shop.jpeg" alt="" class="project-image" />
             <h3 class="project-title">
               <span class="code">&lt;</span>
               Coffee Shop Mockup Website
@@ -57,7 +57,7 @@
           class="project-link"
           target="_black">
           <div class="project-card">
-            <img src="media/tribute_page.jpeg" alt="" class="project-image" />
+            <img src="./assets/tribute_page.jpeg" alt="" class="project-image" />
             <h3 class="project-title">
               <span class="code">&lt;</span>
               Tribute Page
@@ -73,7 +73,7 @@
           class="project-link"
           target="_blank">
           <div class="project-card">
-            <img src="media/survey_form.jpeg" alt="" class="project-image" />
+            <img src="./assets/survey_form.jpeg" alt="" class="project-image" />
             <h3 class="project-title">
               <span class="code">&lt;</span>
               Survey Form
@@ -89,7 +89,7 @@
           class="project-link"
           target="_blank">
           <div class="project-card">
-            <img src="media/landing_page.jpeg" alt="" class="project-image" />
+            <img src="./assets/landing_page.jpeg" alt="" class="project-image" />
             <h3 class="project-title">
               <span class="code">&lt;</span>
               Landing Page
@@ -106,7 +106,7 @@
           target="_blank">
           <div class="project-card">
             <img
-              src="media/technical_documentation.jpeg"
+              src="./assets/technical_documentation.jpeg"
               alt=""
               class="project-image" />
             <h3 class="project-title">
